@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @STEPHEN
 - 👀 I’m interested in Fivem Scripting
-- 🌱 I’m currently learning LUA/HTML/CSS/JS
 - 📫 How to reach me S T E P H E N#3305
 
 <!---
